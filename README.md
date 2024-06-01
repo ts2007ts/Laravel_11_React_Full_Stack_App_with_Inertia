@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## DATABASE FILE IS INCLUDED 
+## DATABASE FILE IS INCLUDED (laravel_react.sql) at the main directory. 
 
 ## About Laravel
 
